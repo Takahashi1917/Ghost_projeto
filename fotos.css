@@ -35,10 +35,10 @@ body{
 
 .img1{
     display: flex;
-    height: 300px;
-    width: 300px;
+    height: 400px;
+    width: 400px;
+    margin-left: 300px;
     margin-top: 150px;
-    margin-left: 155px;
     gap: 200px;
 }
 
@@ -53,6 +53,6 @@ body{
     height: 400px;
     width: 400px;
     margin-top: 150px;
-    margin-left: 155px;
-    gap: 200px;
+    margin-left: 250px;
+    gap: 400px;
 }
